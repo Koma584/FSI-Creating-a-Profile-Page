@@ -1,5 +1,5 @@
 let content = document.querySelector(".js-generated.content");
-let newHeader = document.createElement(h1);
+let newHeader = document.createElement("h1");
 header.setAttribute("class", "dog-name");
 header.append("Rizzo");
 content.append(header);
